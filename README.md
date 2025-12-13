@@ -8,9 +8,14 @@ This repository is a personal sandbox for notes, small experiments, and ideas th
 
 ## Projects
 
-- text-playground
+A collection of small, runnable sandbox projects.
 
-  - Run -> `cd projects/text-playground && npm install && npm run play`
+### text-playground
 
-- json-pretty
-  - Run -> `cd projects/json-pretty && npm install && npm run pretty`
+- Read a text file and print line count, word count, and uppercase output
+- Run -> `cd projects/text-playground && npm install && npm run play`
+
+### json-pretty
+
+- Pretty-print a JSON file
+- Run -> `cd projects/json-pretty && npm install && npm run pretty`
