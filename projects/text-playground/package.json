@@ -1,0 +1,9 @@
+{
+  "name": "text-playground",
+  "private": true,
+  "version": "1.0.0",
+  "scripts": {
+    "play": "node index.js samples/input.txt",
+    "play:file": "node index.js"
+  }
+}
