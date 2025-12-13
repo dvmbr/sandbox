@@ -19,3 +19,8 @@ A collection of small, runnable sandbox projects.
 
 - Pretty-print a JSON file
 - Run -> `cd projects/json-pretty && npm install && npm run pretty`
+
+### slugify
+
+- Convert text into a URL-friendly slug
+- Run -> `cd projects/slugify && npm install && npm run slug`

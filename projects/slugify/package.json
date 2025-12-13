@@ -1,0 +1,8 @@
+{
+  "name": "slugify",
+  "private": true,
+  "version": "1.0.0",
+  "scripts": {
+    "slug": "node index.js samples/input.txt"
+  }
+}
