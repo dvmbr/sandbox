@@ -1,0 +1,8 @@
+{
+  "name": "json-pretty",
+  "private": true,
+  "version": "1.0.0",
+  "scripts": {
+    "pretty": "node index.js samples/input.json"
+  }
+}
