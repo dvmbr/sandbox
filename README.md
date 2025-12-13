@@ -10,6 +10,12 @@ This repository is a personal sandbox for notes, small experiments, and ideas th
 
 A collection of small, runnable sandbox projects.
 
+> Run from root
+>
+> ```bash
+> node run <project-name>
+> ```
+
 ### text-playground
 
 - Read a text file and print line count, word count, and uppercase output
@@ -24,3 +30,7 @@ A collection of small, runnable sandbox projects.
 
 - Convert text into a URL-friendly slug
 - Run -> `cd projects/slugify && npm install && npm run slug`
+
+```
+
+```

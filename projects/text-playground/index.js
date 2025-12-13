@@ -5,7 +5,6 @@ function printUsage() {
   console.log("Example -> node index.js samples/input.txt");
 }
 
-console.log(process.argv);
 const filePath = process.argv[2];
 
 if (!filePath) {
