@@ -11,4 +11,8 @@ module.exports = {
     path: "projects/slugify",
     script: "slug",
   },
+  "mist-vue": {
+    path: "projects/mist-vue",
+    script: "dev",
+  },
 };
