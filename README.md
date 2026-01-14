@@ -31,6 +31,11 @@ A collection of small, runnable sandbox projects.
 - Convert text into a URL-friendly slug
 - Run -> `cd projects/slugify && npm install && npm run slug`
 
+### mist-vue
+
+- Mist, Fog effect experiment
+- Run -> `cd projects/mist-vue && npm install && npm run dev`
+
 ```
 
 ```
